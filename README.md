@@ -3,11 +3,15 @@
 # Live Demo:
 👉 
 
-***This project is not fully open source code, I am not allowed to share everything***
+# Source code
+
+***The full source code is hidden***
+
+***For fully working source code contact me here 👉 gambling.games.code@gmail.com***
 
 # Slot Machine Game
 
--- CLIETN:-------
+-- CLIENT:-------
 * 𝗣𝗶𝘅𝗶.𝗷𝘀 7.4
 * 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 18.2
 * 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁
