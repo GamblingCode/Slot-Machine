@@ -9,7 +9,6 @@
 
 ***For fully working source code contact me here 👉 gambling.games.code@gmail.com***
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J_jCSIwpFmQ/0.jpg)](https://www.youtube.com/watch?v=J_jCSIwpFmQ)
 
 # Slot Machine Game
 
@@ -28,6 +27,7 @@
 * 𝗦𝗼𝗰𝗸𝗲𝘁.𝗶𝗼
 * 𝗠𝗼𝗻𝗴𝗼𝗱𝗯 database 
 * 𝗣𝗮𝘆𝗣𝗮𝗹 payment method implemented
+asdasd
 
 
 # Video
