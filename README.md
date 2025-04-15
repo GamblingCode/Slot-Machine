@@ -9,6 +9,8 @@
 
 ***For fully working source code contact me here 👉 gambling.games.code@gmail.com***
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J_jCSIwpFmQ/0.jpg)](https://www.youtube.com/watch?v=J_jCSIwpFmQ)
+
 # Slot Machine Game
 
 -- CLIENT:-------
@@ -28,8 +30,7 @@
 * 𝗣𝗮𝘆𝗣𝗮𝗹 payment method implemented
 
 
-𝐕𝐢𝐝𝐞𝐨
-
+# Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J_jCSIwpFmQ/0.jpg)](https://www.youtube.com/watch?v=J_jCSIwpFmQ)
 
 
